@@ -1,5 +1,6 @@
 //c
 int main (void)
 {
-    printf("Hello\n");
+    printf("Hello");
+    printf("\n")
 }
